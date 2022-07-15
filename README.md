@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Romulo Jales :)
 
-### A passionate developer from Brazil
+### A passionate developer from Brazil 🙂
 
 ### Languages and Tools:
 
