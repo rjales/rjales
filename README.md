@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-https://skillicons.dev/icons?i=cs,html,css,js
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 ### Connect with me:
 <p align="left">
