@@ -4,8 +4,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rjales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rjales" height="30" width="40" /></a>
-<a href="https://instagram.com/romulojales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romulojales" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rjales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rjales" height="30" width="40" /></a>
+<a href="https://instagram.com/romulojales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romulojales" height="30" width="40" /></a>
 </p>
 
 <div>
