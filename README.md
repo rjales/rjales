@@ -1,7 +1,3 @@
-## Hi 👋, I'm Romulo Jales :)
-
-### A passionate developer from Brazil 🙂
-
 ### Languages and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=dotnet,cs,git,html,css,js)
